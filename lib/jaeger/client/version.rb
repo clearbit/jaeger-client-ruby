@@ -2,6 +2,6 @@
 
 module Jaeger
   module Client
-    VERSION = '1.1.0'
+    VERSION = '2.0.0.pre'
   end
 end
